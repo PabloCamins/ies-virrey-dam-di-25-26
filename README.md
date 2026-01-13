@@ -23,3 +23,6 @@
 - **9/12/2025**: Ejercicio final Kotlin resuelto en clase 
 - **14/12/2025**: CRUD Java Examen posible solucion
 - **15/12/2025**: Ejercicios de clase acerca de Special Classes.
+
+-## 🧭 Additional repositories. 
+- https://github.com/jcafvirrey/Jetpack_Compose_In_Class --> Class code repository 
